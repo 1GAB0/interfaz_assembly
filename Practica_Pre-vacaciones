@@ -8,6 +8,7 @@ Imput: - gabo200src
 Ouput: hello
 */
 
+ @greet.s - a little asm greeter.
 /*programa corto que obtiene la entrada del teclado y luego lo imprime de nuevo en la pantalla*/
 
 
