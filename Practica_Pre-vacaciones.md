@@ -5,8 +5,8 @@ Filename: P_pre-vac
 Autor: San Roman Castillo Gabriel
 Date: ______
 Description : Practica corta, programa pregunta nombre y responde hola
-Imput: - gabo200src
-Ouput: hello
+Imput: - GAB0
+Ouput: hello GAB0
 */
 
 @ greet.s - a little asm greeter.
